@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1b01a7a6-382f-41f3-aacc-0c5a06066309",
+    "name": "大纲库",
+    "type": "outline",
+    "description": "存储小说大纲、章节规划、细纲等",
+    "createdAt": 1773931585624,
+    "updatedAt": 1773931585624,
+    "documentCount": 0,
+    "chunkCount": 0,
+    "isPreset": true,
+    "metadata": {}
+  },
+  {
+    "id": "bd791988-c87d-42d5-a58b-f5fe01bda1fe",
+    "name": "设定库",
+    "type": "setting",
+    "description": "存储人物、世界观、技能、物品、场景等设定",
+    "createdAt": 1773931585687,
+    "updatedAt": 1773931585687,
+    "documentCount": 0,
+    "chunkCount": 0,
+    "isPreset": true,
+    "metadata": {}
+  },
+  {
+    "id": "5986fe41-6b8e-4185-99fd-84c4f1f37b80",
+    "name": "章节库",
+    "type": "chapter",
+    "description": "存储已完成的章节内容",
+    "createdAt": 1773931585753,
+    "updatedAt": 1773931585753,
+    "documentCount": 0,
+    "chunkCount": 0,
+    "isPreset": true,
+    "metadata": {}
+  }
+]

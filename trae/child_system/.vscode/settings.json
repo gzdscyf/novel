@@ -1,0 +1,11 @@
+{
+    "writerHelper.enabled": true,
+    "writerHelper.docs.characters.path": "setting/角色.md",
+    "writerHelper.configPaths.characters": "setting/角色.md",
+    "writerHelper.docs.characters.color": "#e06c75",
+    "writerHelper.docs.scenes.path": "setting/场景设计.md",
+    "writerHelper.configPaths.scenes": "setting/场景设计.md",
+    "writerHelper.docs.world.path": "setting/世界观设定.md",
+    "writerHelper.configPaths.world": "setting/世界观设定.md",
+    "writerHelper.docs.world.matchMode": "fullwidth_brackets"
+}
